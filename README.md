@@ -2,10 +2,10 @@
 
 # 王复隆 &ndash; Senior Front-End Engineer
 
-- 5+前端工作经验，1+后端开发经验，负责的项目服务全公司所有部门
+- 6+前端工作经验，2+后端开发经验，在 Ethereum 发行过 RockFlow NFT，可以编写 smart contract
 - 专注于前端技术的全栈工程师
-- 主动推动各部门进度，协调各部门间项目同步
-- 带 4 人规模的前端小组
+- 具有产品思维，有审美能力，能够帮助 PM 和 UI 同学持续优化和改善产品
+- 有带队经验
 
 ## Education
 
@@ -13,17 +13,58 @@
 
 ## Skills
 
-- Languages &ndash; **JavaScript**, **TypeScript**, Java, CSS, LESS, HTML, Jade
-- Frameworks &ndash; **Electron**, **Vue**, **React**, **Redux**, Redux-Saga, Meteor, Node.js, Express, Ant Design, Material-UI
-- Automation Software &ndash; **Webpack**, Jenkins
+- Languages &ndash; **JavaScript**, **TypeScript**, **Java**, **Solidity**，CSS, LESS, HTML, Jade
+- Frameworks &ndash; **Electron**, **Vue**, **React**, **Redux**, **Next.js**, Redux-Saga, Meteor, Node.js, Express, Ant Design, Material-UI
+- Automation Software &ndash; **Vite**, **Webpack**, Jenkins
 - Database &ndash; **Mongodb**, **Realmdb**, Redis, Mysql, Oracle
 - Other &ndash; **Graphql**, gRPC, Protocol Buffers, Json
 
 ## Experience
 
+> **RockFlow**
+
+2021/11 &ndash; 至今
+
+**官网 https://rockflow.ai**
+
+- 基于 Nextjs 的 SSR 项目，Lighthouse SEO 跑分 100
+- 接入 SearchConsole+GA4+GTM 持续优化 SEO 排名，品牌词 google 搜索排行第一
+
+**NFT https://meta.rockflow.ai**
+
+- Smart Contract Address: https://etherscan.io/address/0x39b782a817ce07ff9947bb96ba9df001aad731fb
+- 合约单测覆盖率达 100%
+- 区别于正常 Web3 NFT 发行思路，主导设计了一套中心化和去中心化结合的玩法
+
+**帮助中心 https://help.rockflow.ai**
+
+- 基于 Facebook Docusaurus 搭建的 SSG 项目
+- 接入 Algolia 的搜索能力，实现内容多语言结构化搜索，，本地自建 DocSearch crawler，自主抓取网站内容，汇总到 Algolia Index，无需 Server 介入便能实现搜索能力，极大缩减人力成本
+
+**H5 Hybrid App**
+
+- 基于 Nextjs 的 SSR 项目
+- 完成开户、出入金、NFT 头像/封面、商城、问卷、交易热点、协议、分享等功能模块设计搭建
+- 确定和定义与客户端通信方案
+- 协助客户端对 Webview 能力持续优化
+- 主导 Sentry 监控体系搭建，提前发现先上问题
+
+**券商业务管理后台**
+
+- Vue3.x + Vite + TS + Vuex， Server 使用 Spring Boot，遵循 OpenAPI3.0 规范生成 swagger 文件
+- 前端使用 OpenAPI Generator 自动生成接口定义与（TS + Axios) 接口调用，节省前端 30%+工作量，减少 90%以上 bug 产生概率, 基本消除 typo 错误
+- 无需 UI 介入，完全设计后台布局，并指导伙伴渐进式封装产出基础组建，为后续迭代节省近 40%+工作量
+- 接入飞书平台能力，设计实现整个前后端登录(拉取飞书用户数据）、权限、日志、告警通知等能力
+- 设计和实现交易热点能能力，从后台到 H5 在到 App 内/外展示。后台对 quill 二次开发，富文本实现股票代码，行情卡片，图文编辑能力。用户交易意愿从 20%提升到 80%
+
+**Server 开发**
+
+- 涉及 portfolio、account、ticker 等少数服务的开发
+- Junit4 + Mockito 保证单测覆盖率达到 95%+
+
 > **快手科技**
 
-2018/5 &ndash; 至今
+2018/5 &ndash; 2021/11
 
 **游戏打包发布广告聚合 Admin 后台、 游戏社区 Admin（游戏中台）**
 
@@ -57,7 +98,6 @@
 2014/9 &ndash; 2016/10  
 **中华保险、安邦保险、中石化、中国能源建设集团、利安人寿无纸化签章项目、工时系统**
 
-- 维护电签平台，参与定制化开发（**Java/Oracle**）
-- 优化 WebService 自动盖章接口，优化冗余代码与查询 SQL
+- 维护电签平台，参与定制化开发
 - 设计实现文档盖章页面，提供盖章，插入二维码，盖章后分发等功能。
 - 设计实现员工工时系统
