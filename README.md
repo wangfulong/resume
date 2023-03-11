@@ -5,7 +5,7 @@
 - 6+前端工作经验，2+后端开发经验，在 Ethereum 发行过 RockFlow NFT，可以编写 smart contract
 - 专注于前端技术的全栈工程师
 - 具有产品思维，有审美能力，能够帮助 PM 和 UI 同学持续优化和改善产品
-- 有带队经验
+- 有带人经验
 
 ## Education
 
@@ -28,7 +28,7 @@
 **官网 https://rockflow.ai**
 
 - 基于 Nextjs 的 SSR 项目，Lighthouse SEO 跑分 100
-- 接入 SearchConsole+GA4+GTM 持续优化 SEO 排名，品牌词 google 搜索排行第一
+- 接入 Search Console + GA4 + GTM 持续优化 SEO 排名，品牌词 google 搜索排行第一
 
 **NFT https://meta.rockflow.ai**
 
