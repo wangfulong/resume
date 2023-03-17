@@ -2,7 +2,7 @@
 
 # 王复隆 &ndash; Senior Front-End Engineer
 
-- 6+前端工作经验，2+后端开发经验，在 Ethereum 发行过 RockFlow NFT，可以编写 smart contract
+- 6+前端工作经验，2+后端开发经验，在 Ethereum 发行过 RockFlow NFT
 - 专注于前端技术的全栈工程师
 - 具有产品思维，有审美能力，能够帮助 PM 和 UI 同学持续优化和改善产品
 - 有带人经验
@@ -28,7 +28,7 @@
 **官网 https://rockflow.ai**
 
 - 基于 Nextjs 的 SSR 项目，Lighthouse SEO 跑分 100
-- 接入 Search Console + GA4 + GTM 持续优化 SEO 排名，品牌词 google 搜索排行第一
+- 接入 Search Console + GA4 + GTM 持续优化 SEO 排名，品牌词 Google 搜索排行第一
 
 **NFT https://meta.rockflow.ai**
 
@@ -39,7 +39,7 @@
 **帮助中心 https://help.rockflow.ai**
 
 - 基于 Facebook Docusaurus 搭建的 SSG 项目
-- 接入 Algolia 的搜索能力，实现内容多语言结构化搜索，，本地自建 DocSearch crawler，自主抓取网站内容，汇总到 Algolia Index，无需 Server 介入便能实现搜索能力，极大缩减人力成本
+- 接入 Algolia 的搜索能力，实现内容多语言结构化搜索，本地自建 DocSearch crawler 抓取网站内容到 Algolia Index，无需 Server 介入实现搜索能力，极大缩减人力成本
 
 **H5 Hybrid App**
 
@@ -47,15 +47,15 @@
 - 完成开户、出入金、NFT 头像/封面、商城、问卷、交易热点、协议、分享等功能模块设计搭建
 - 确定和定义与客户端通信方案
 - 协助客户端对 Webview 能力持续优化
-- 主导 Sentry 监控体系搭建，提前发现先上问题
+- 主导 Sentry 监控体系搭建，提前发现线上问题
 
 **券商业务管理后台**
 
 - Vue3.x + Vite + TS + Vuex， Server 使用 Spring Boot，遵循 OpenAPI3.0 规范生成 swagger 文件
-- 前端使用 OpenAPI Generator 自动生成接口定义与（TS + Axios) 接口调用，节省前端 30%+工作量，减少 90%以上 bug 产生概率, 基本消除 typo 错误
-- 无需 UI 介入，完全设计后台布局，并指导伙伴渐进式封装产出基础组建，为后续迭代节省近 40%+工作量
-- 接入飞书平台能力，设计实现整个前后端登录(拉取飞书用户数据）、权限、日志、告警通知等能力
-- 设计和实现交易热点能能力，从后台到 H5 在到 App 内/外展示。后台对 quill 二次开发，富文本实现股票代码，行情卡片，图文编辑能力。用户交易意愿从 20%提升到 80%
+- 前端使用 OpenAPI Generator 自动生成接口定义与（TS + Axios) 接口调用，节省前端 30%+ 工作量，减少 90% 以上 bug 产生概率, 基本消除 typo 错误
+- 无需 UI 介入，完全设计后台布局，并指导同组同学渐进式封装产出基础组建，为后续迭代节省近 40%+ 工作量
+- 接入飞书平台能力，设计实现整个前后端登录、权限、日志、告警通知等能力
+- 全栈设计和实现了交易热点功能，同时对 quill 二次开发，扩展了股票代码、行情卡片、图文编辑等能力。高频浏览交易热点的用户入金转化率从 2%提升至 21%，提高了 10 倍。
 
 **Server 开发**
 
