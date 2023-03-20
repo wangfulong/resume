@@ -2,10 +2,10 @@
 
 # 王复隆 &ndash; Senior Front-End Engineer
 
-- 6+前端工作经验，2+后端开发经验，在 Ethereum 发行过 RockFlow NFT
+- 6+前端工作经验，2+后端开发经验，参与过 NFT 项目
 - 专注于前端技术的全栈工程师
 - 具有产品思维，有审美能力，能够帮助 PM 和 UI 同学持续优化和改善产品
-- 有带人经验
+- 有管理经验
 
 ## Education
 
