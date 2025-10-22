@@ -1,103 +1,102 @@
-> wfllike@gmail.<span/>com | 15210594796
+wfllike@gmail.com | 15210594796
 
-# 王复隆 &ndash; Senior Front-End Engineer
+# 王复隆 - Senior Full-Stack Engineer
 
-- 6+前端工作经验，2+后端开发经验，参与过 NFT 项目
-- 专注于前端技术的全栈工程师
-- 具有产品思维，有审美能力，能够帮助 PM 和 UI 同学持续优化和改善产品
-- 有管理经验
+## Summary
+
+8年软件开发经验，专注前端架构与全栈解决方案。在 RockFlow 主导 NFT 项目和券商系统开发，通过技术创新将核心业务转化率提升10倍。擅长前端工程化、性能优化、Web3 技术和跨端开发。具备产品思维和团队管理经验。
 
 ## Education
 
-**首都师范大学** &emsp;计算机科学与技术(学士学位) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;2009 &ndash; 2013
+**首都师范大学** | 计算机科学与技术（学士） | 2009 - 2013
 
 ## Skills
 
-- Languages &ndash; **JavaScript**, **TypeScript**, **Java**, **Solidity**，CSS, LESS, HTML, Jade
-- Frameworks &ndash; **Electron**, **Vue**, **React**, **Redux**, **Next.js**, Redux-Saga, Meteor, Node.js, Express, Ant Design, Material-UI
-- Automation Software &ndash; **Vite**, **Webpack**, Jenkins
-- Database &ndash; **Mongodb**, **Realmdb**, Redis, Mysql, Oracle
-- Other &ndash; **Graphql**, gRPC, Protocol Buffers, Json
+- **Languages** - JavaScript, TypeScript, Java, Solidity, CSS/LESS, HTML
+- **Frontend** - React, Vue, Next.js, Electron, Redux, Redux-Saga, Ant Design, Material-UI
+- **Backend** - Node.js, Express, Spring Boot, Meteor
+- **Engineering** - Vite, Webpack, Jenkins, OpenAPI Generator
+- **Database** - MongoDB, Realm, Redis, MySQL, Oracle
+- **Web3 & Other** - Smart Contracts, GraphQL, gRPC, Protocol Buffers
 
 ## Experience
 
-> **RockFlow**
+### RockFlow | Senior Full-Stack Engineer | 2021/11 - 至今
 
-2021/11 &ndash; 至今
-
-**官网 https://rockflow.ai**
-
-- 基于 Nextjs 的 SSR 项目，Lighthouse SEO 跑分 100
-- 接入 Search Console + GA4 + GTM 持续优化 SEO 排名，品牌词 Google 搜索排行第一
-
-**NFT https://meta.rockflow.ai**
-
-- Smart Contract Address: https://etherscan.io/address/0x39b782a817ce07ff9947bb96ba9df001aad731fb
-- 合约单测覆盖率达 100%
-- 区别于正常 Web3 NFT 发行思路，主导设计了一套中心化和去中心化结合的玩法
-
-**帮助中心 https://help.rockflow.ai**
-
-- 基于 Facebook Docusaurus 搭建的 SSG 项目
-- 接入 Algolia 的搜索能力，实现内容多语言结构化搜索，本地自建 DocSearch crawler 抓取网站内容到 Algolia Index，无需 Server 介入实现搜索能力，极大缩减人力成本
-
-**H5 Hybrid App**
-
-- 基于 Nextjs 的 SSR 项目
-- 完成开户、出入金、NFT 头像/封面、商城、问卷、交易热点、协议、分享等功能模块设计搭建
-- 确定和定义与客户端通信方案
-- 协助客户端对 Webview 能力持续优化
-- 主导 Sentry 监控体系搭建，提前发现线上问题
+**核心成就：交易热点功能优化**
+- 全栈设计实现交易热点功能，二次开发 Quill 编辑器，扩展股票代码、行情卡片、图文编辑能力
+- **业务成果：高频浏览用户入金转化率从 2% 提升至 21%，提高 10 倍**
 
 **券商业务管理后台**
+- 技术栈：Vue3 + Vite + TypeScript + Vuex，后端 Spring Boot + OpenAPI 3.0
+- 引入 OpenAPI Generator 自动生成 TS 接口定义与 Axios 调用，节省 30% 开发工作量，减少 90% bug
+- 独立设计后台 UI 布局，带领团队封装基础组件库，为后续迭代节省 40% 工作量
+- 接入飞书平台，实现统一登录、权限管理、日志监控、告警通知等完整体系
 
-- Vue3.x + Vite + TS + Vuex， Server 使用 Spring Boot，遵循 OpenAPI3.0 规范生成 swagger 文件
-- 前端使用 OpenAPI Generator 自动生成接口定义与（TS + Axios) 接口调用，节省前端 30%+ 工作量，减少 90% 以上 bug 产生概率, 基本消除 typo 错误
-- 无需 UI 介入，完全设计后台布局，并指导同组同学渐进式封装产出基础组建，为后续迭代节省近 40%+ 工作量
-- 接入飞书平台能力，设计实现整个前后端登录、权限、日志、告警通知等能力
-- 全栈设计和实现了交易热点功能，同时对 quill 二次开发，扩展了股票代码、行情卡片、图文编辑等能力。高频浏览交易热点的用户入金转化率从 2%提升至 21%，提高了 10 倍。
+**官网 SEO 优化** | https://rockflow.ai
+- Next.js SSR 架构，Lighthouse SEO 跑分 100
+- 接入 Search Console + GA4 + GTM 持续优化，品牌词 Google 搜索排名第一
 
-**Server 开发**
+**NFT 项目** | https://meta.rockflow.ai
+- Smart Contract: https://etherscan.io/address/0x39b782a817ce07ff9947bb96ba9df001aad731fb
+- Solidity 智能合约开发，单测覆盖率 100%
+- 主导设计中心化与去中心化结合的创新玩法，区别于传统 Web3 NFT 发行模式
 
-- 涉及 portfolio、account、ticker 等少数服务的开发
-- Junit4 + Mockito 保证单测覆盖率达到 95%+
+**H5 Hybrid App**
+- Next.js SSR 项目，实现开户、出入金、NFT、商城、问卷、分享等核心功能模块
+- 定义客户端通信协议，协助优化 Webview 性能
+- 主导 Sentry 监控体系搭建，提前发现并解决线上问题
 
-> **快手科技**
+**帮助中心** | https://help.rockflow.ai
+- Docusaurus SSG 项目，接入 Algolia 实现多语言结构化搜索
+- 自建 DocSearch Crawler，零 Server 成本实现全文搜索
 
-2018/5 &ndash; 2021/11
+**后端开发**
+- 参与 Portfolio、Account、Ticker 等服务开发
+- JUnit4 + Mockito，单测覆盖率 95%+
 
-**游戏打包发布广告聚合 Admin 后台、 游戏社区 Admin（游戏中台）**
+---
 
-- 接手后迅速诊断代码问题，渐进式重构整个打包后台，同时保证业务迭代。梳理业务逻辑、用 Antd 替换无单测的 iView、处理回调地狱、抽象公共组件，删除冗余代码、完全重写广告聚合，为自动化需求打下可扩展基础
-- 帮助 PM 进步，产生结构化思维、规避不合理需求
-- Vue3.x+ts 搭建游戏社区 Admin 后台，拥抱 Composition API
+### 快手科技 | Senior Front-End Engineer | 2018/5 - 2021/11
 
-**Kim、Kim 后台、Task、OKR、Review（效率工程）**
+**效率工程 - Kim IM 系统**
+- 从零参与构建 Kim 团队技术栈，包括内部组件库、技术选型及框架
+- 技术栈：Electron + React + Redux + Redux-Saga + GraphQL + Realm
+- 设计实现登录模块：SMS 限速、SSO 接入、第三方扫码登录（Node.js + Lua + Redis）
+- 独立搭建 Kim 后台系统，满足 HR 人员/部门/权限管理需求
 
-- 从零参与构建 Kim 团队技术栈，包括内部组件库，技术选型及内部框架, 参与 PC 端业务实现（**Electron**/**React**/Redux/Redux-Saga/Graphql/Realm)
-- 设计实现登录模块，SMS 登录限速，SSO 接入，Kim 内验证登录及第三方扫码登录（Node.js/Lua/Redis）
-- 赶在企业微信全面切换 Kim 前，独自快速搭建 Kim 后台系统，满足 HR 日常人员/部门/权限管理的需求（**React/Redux**）
-- 开发轻量级任务管理系统 Task（**Meteor**/Node.js/Mongo)
-- 独立负责 Okr/Review 全栈工作，快速搭建完成满足紧急使用与试错（**Java**/**React**）  
-  <br>
+**效率工程 - OKR/Review 系统**
+- 独立负责全栈开发，快速完成 MVP 满足紧急业务需求（Java + React）
 
-> **一起写 Office**
+**游戏中台 - 打包发布 & 广告聚合后台**
+- 渐进式重构打包后台：替换组件库（iView → Ant Design）、优化代码结构、抽象公共组件
+- 重写广告聚合模块，为自动化需求打下可扩展基础
+- 使用 Vue3 + TypeScript 搭建游戏社区 Admin，拥抱 Composition API
 
-2016/10 &ndash; 2018/05  
-**一起写、Meet、销售管理系统**
+**其他项目**
+- 开发轻量级任务管理系统 Task（Meteor + Node.js + MongoDB）
 
-- 负责一起写 Web 端 UI 和功能，登录、搜索、导航、页面布局（React/Flux/Google Cloure/Java/gRPC/Protocol Buffers）
-- 适配一起写页面在钉钉，企业微信的 UI 展示（Mobile）
-- 独立负责 Meet 视频会议 Web 端开发（WebRTC/React/Material-UI)
-- 开发销售管理系统（React/Redux）
-- 无任何前端经验情况下一周内完成一起写官网首页 （CSS/HTML/jQuery)  
-  <br>
+---
 
-> **北京点聚信息科技有限公司**
+### 一起写 Office | Front-End Engineer | 2016/10 - 2018/5
 
-2014/9 &ndash; 2016/10  
-**中华保险、安邦保险、中石化、中国能源建设集团、利安人寿无纸化签章项目、工时系统**
+**一起写协作平台**
+- 负责 Web 端 UI 和核心功能开发：登录、搜索、导航、页面布局
+- 技术栈：React + Flux + Google Closure + Java + gRPC + Protocol Buffers
+- 适配钉钉、企业微信移动端展示
 
-- 维护电签平台，参与定制化开发
-- 设计实现文档盖章页面，提供盖章，插入二维码，盖章后分发等功能。
-- 设计实现员工工时系统
+**Meet 视频会议**
+- 独立负责 Web 端开发（WebRTC + React + Material-UI）
+
+**其他项目**
+- 销售管理系统（React + Redux）
+- 官网首页开发（一周内从零学习前端并交付）
+
+---
+
+### 北京点聚信息科技 | Software Engineer | 2014/9 - 2016/10
+
+**电子签章平台**
+- 维护电签平台，参与多个大型客户定制化开发（中华保险、安邦保险、中石化、中国能源建设集团、利安人寿）
+- 设计实现文档盖章页面，提供盖章、二维码插入、文档分发等功能
+- 设计实现员工工时管理系统
